@@ -1,0 +1,5 @@
+[25-Jul-2020 07:24:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home1/kvellh7i/codework/wp-content/themes/thecodework/inc/cmb2/cmb-field-select2-master/cmb-field-select2.php:27
+Stack trace:
+#0 /home1/kvellh7i/codework/wp-content/themes/thecodework/inc/cmb2/cmb-field-select2-master/cmb-field-select2.php(184): PW_CMB2_Field_Select2->__construct()
+#1 {main}
+  thrown in /home1/kvellh7i/codework/wp-content/themes/thecodework/inc/cmb2/cmb-field-select2-master/cmb-field-select2.php on line 27
